@@ -1,6 +1,29 @@
-[
-  {"name": "TD Bank", "url": "https://www.td.com"},
-  {"name": "CIBC", "url": "https://www.cibc.com"},
-  {"name": "Air Canada", "url": "https://www.aircanada.com"},
-  {"name": "Triple Tel", "url": "https://tripletel.com/login"}
-]
+{
+  "version": "1.0.0",
+  "message": "All systems working",
+  "theme": {
+    "mode": "dark",
+    "primaryColor": "#000000"
+  },
+  "categories": [
+    {
+      "name": "Banks",
+      "items": [
+        {"name": "TD Bank", "url": "https://www.td.com"},
+        {"name": "CIBC", "url": "https://www.cibc.com"}
+      ]
+    },
+    {
+      "name": "Airlines",
+      "items": [
+        {"name": "Air Canada", "url": "https://www.aircanada.com"}
+      ]
+    },
+    {
+      "name": "Cellular",
+      "items": [
+        {"name": "Triple Tel", "url": "https://tripletel.com/login"}
+      ]
+    }
+  ]
+}
