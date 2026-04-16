@@ -2,25 +2,20 @@
   "version": "1.0.0",
   "categories": [
     {
-      "name": "Banks",
+      "name": "US Banks",
       "items": [
-        {
-          "name": "US Banks",
-          "items": [
-            {"name": "Chase", "url": "https://www.chase.com"},
-            {"name": "Apple Bank", "url": "https://www.apple.com"},
-            {"name": "Citi Bank", "url": "https://www.citi.com"},
-            {"name": "Capital One", "url": "https://www.capitalone.com"},
-            {"name": "TD USA", "url": "https://www.td.com"}
-          ]
-        },
-        {
-          "name": "CAD Banks",
-          "items": [
-            {"name": "TD CAD", "url": "https://www.td.com/ca"},
-            {"name": "CIBC", "url": "https://www.cibc.com"}
-          ]
-        }
+        {"name": "Chase", "url": "https://www.chase.com"},
+        {"name": "Apple Bank", "url": "https://www.apple.com"},
+        {"name": "Citi Bank", "url": "https://www.citi.com"},
+        {"name": "Capital One", "url": "https://www.capitalone.com"},
+        {"name": "TD USA", "url": "https://www.td.com"}
+      ]
+    },
+    {
+      "name": "CAD Banks",
+      "items": [
+        {"name": "TD CAD", "url": "https://www.td.com/ca"},
+        {"name": "CIBC", "url": "https://www.cibc.com"}
       ]
     },
     {
