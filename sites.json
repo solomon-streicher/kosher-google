@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "categories": [
     {
       "name": "Banks",
@@ -30,7 +30,7 @@
         { "name": "Air Canada", "url": "https://www.aircanada.com" },
         { "name": "Aeroplan", "url": "https://www.aeroplan.com" },
         { "name": "United", "url": "https://www.united.com" },
-        { "name": "EL AL", "url": "https://www.elal.com/eng/login" }
+        { "name": "EL AL", "url": "https://www.elal.com/en/passengers/login" }
       ]
     },
     {
@@ -54,10 +54,19 @@
         {
           "name": "Israel Cellular",
           "items": [
-            { "name": "Triple Tel", "url": "https://www.tripletel.com" },
+            { "name": "Triple Tel", "url": "https://www.tripletel.com/login" },
             { "name": "Hot Mobile", "url": "https://www.hotmobile.co.il" }
           ]
         }
+      ]
+    },
+    {
+      "name": "Jewish Entertainment",
+      "icon": "🇮🇱",
+      "items": [
+        { "name": "Yiddish24", "url": "https://yiddish24.com" },
+        { "name": "Zing", "url": "https://zingmusic.com" },
+        { "name": "Zemer", "url": "https://zemer.fm" }
       ]
     }
   ]
