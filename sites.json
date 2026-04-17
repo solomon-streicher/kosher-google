@@ -1,112 +1,61 @@
 {
-  "version": "2.1.0",
+  "version": "1.0.1",
   "categories": [
     {
       "name": "Banks",
-      "icon": "🏦",
       "items": [
         {
           "name": "US Banks",
-          "icon": "🇺🇸",
           "items": [
-            {
-              "name": "Chase",
-              "url": "https://www.chase.com",
-              "logo": "https://logo.clearbit.com/chase.com"
-            },
-            {
-              "name": "Apple Bank",
-              "url": "https://www.applebank.com",
-              "logo": "https://logo.clearbit.com/applebank.com"
-            },
-            {
-              "name": "Citi Bank",
-              "url": "https://www.citi.com",
-              "logo": "https://logo.clearbit.com/citi.com"
-            },
-            {
-              "name": "Capital One",
-              "url": "https://www.capitalone.com",
-              "logo": "https://logo.clearbit.com/capitalone.com"
-            },
-            {
-              "name": "TD USA",
-              "url": "https://www.td.com",
-              "logo": "https://logo.clearbit.com/td.com"
-            }
+            { "name": "Apple Bank", "url": "https://www.applebank.com" },
+            { "name": "TD Bank US", "url": "https://www.td.com/us/en/personal-banking" },
+            { "name": "Capital One", "url": "https://www.capitalone.com" },
+            { "name": "Chase", "url": "https://www.chase.com" },
+            { "name": "Citi", "url": "https://www.citi.com" }
           ]
         },
         {
           "name": "CAD Banks",
-          "icon": "🇨🇦",
           "items": [
-            {
-              "name": "CIBC",
-              "url": "https://www.cibc.com",
-              "logo": "https://logo.clearbit.com/cibc.com"
-            },
-            {
-              "name": "TD Canada",
-              "url": "https://www.td.com/ca",
-              "logo": "https://logo.clearbit.com/td.com"
-            }
+            { "name": "RBC", "url": "https://www.rbcroyalbank.com" },
+            { "name": "TD Canada", "url": "https://www.td.com/ca/en/personal-banking" },
+            { "name": "CIBC", "url": "https://www.cibc.com" }
           ]
         }
       ]
     },
     {
       "name": "Airlines",
-      "icon": "✈️",
       "items": [
-        {
-          "name": "Air Canada",
-          "url": "https://www.aircanada.com",
-          "logo": "https://logo.clearbit.com/aircanada.com"
-        },
-        {
-          "name": "Aeroplan",
-          "url": "https://www.aircanada.com/aeroplan",
-          "logo": "https://logo.clearbit.com/aircanada.com"
-        },
-        {
-          "name": "United",
-          "url": "https://www.united.com",
-          "logo": "https://logo.clearbit.com/united.com"
-        },
-        {
-          "name": "El Al",
-          "url": "https://www.elal.com/eng/login",
-          "logo": "https://logo.clearbit.com/elal.com"
-        }
+        { "name": "Air Canada", "url": "https://www.aircanada.com" },
+        { "name": "Aeroplan", "url": "https://www.aeroplan.com" },
+        { "name": "United", "url": "https://www.united.com" },
+        { "name": "EL AL", "url": "https://www.elal.com/eng/login" }
       ]
     },
     {
       "name": "Cellular",
-      "icon": "📱",
       "items": [
         {
           "name": "US Cellular",
-          "icon": "🇺🇸",
           "items": [
-            {"name": "Verizon", "url": "https://www.verizon.com"},
-            {"name": "T-Mobile", "url": "https://www.t-mobile.com"},
-            {"name": "US Mobile", "url": "https://www.usmobile.com"}
+            { "name": "Verizon", "url": "https://www.verizon.com" },
+            { "name": "T-Mobile", "url": "https://www.t-mobile.com" },
+            { "name": "US Mobile", "url": "https://www.usmobile.com" }
           ]
         },
         {
           "name": "CAD Cellular",
-          "icon": "🇨🇦",
           "items": [
-            {"name": "Fizz", "url": "https://fizz.ca"},
-            {"name": "Koodo", "url": "https://www.koodomobile.com"}
+            { "name": "Fizz", "url": "https://fizz.ca" },
+            { "name": "Koodo", "url": "https://www.koodomobile.com" }
           ]
         },
         {
-          "name": "Israeli Cellular",
-          "icon": "🇮🇱",
+          "name": "Israel Cellular",
           "items": [
-            {"name": "Triple Tel Login", "url": "https://tripletel.com/login"},
-            {"name": "Hot Mobile", "url": "https://www.hotmobile.co.il"}
+            { "name": "Triple Tel", "url": "https://www.tripletel.com" },
+            { "name": "Hot Mobile", "url": "https://www.hotmobile.co.il" }
           ]
         }
       ]
