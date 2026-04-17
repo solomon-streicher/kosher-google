@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "categories": [
     {
       "name": "Banks",
@@ -24,6 +24,27 @@
         }
       ]
     },
+
+    {
+      "name": "Shopping",
+      "items": [
+        {
+          "name": "US Shopping",
+          "items": [
+            { "name": "Amazon US", "url": "https://www.amazon.com" },
+            { "name": "Walmart US", "url": "https://www.walmart.com" }
+          ]
+        },
+        {
+          "name": "CAD Shopping",
+          "items": [
+            { "name": "Amazon Canada", "url": "https://www.amazon.ca" },
+            { "name": "Walmart Canada", "url": "https://www.walmart.ca" }
+          ]
+        }
+      ]
+    },
+
     {
       "name": "Airlines",
       "items": [
@@ -33,6 +54,7 @@
         { "name": "EL AL", "url": "https://www.elal.com/en/passengers/login" }
       ]
     },
+
     {
       "name": "Cellular",
       "items": [
@@ -60,13 +82,13 @@
         }
       ]
     },
+
     {
       "name": "Jewish Entertainment",
       "icon": "🇮🇱",
       "items": [
         { "name": "Yiddish24", "url": "https://yiddish24.com" },
-        { "name": "Zing", "url": "https://zingmusic.com" },
-        { "name": "Zemer", "url": "https://zemer.fm" }
+        { "name": "Zing", "url": "https://zingmusic.app/" }
       ]
     }
   ]
