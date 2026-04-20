@@ -1,5 +1,5 @@
 {
-  "version": "2.0.1",
+  "version": "1.0.5",
   "categories": [
     {
       "name": "Banks",
@@ -7,54 +7,49 @@
         {
           "name": "US Banks",
           "items": [
-            { "name": "Apple Bank", "url": "https://www.applebank.com" },
-            { "name": "TD Bank US", "url": "https://www.td.com/us/en/personal-banking" },
-            { "name": "Capital One", "url": "https://www.capitalone.com" },
             { "name": "Chase", "url": "https://www.chase.com" },
-            { "name": "Citi", "url": "https://www.citi.com" }
+            { "name": "Apple Bank", "url": "https://www.applebank.com" },
+            { "name": "Citi Bank", "url": "https://www.citi.com" },
+            { "name": "Capital One", "url": "https://www.capitalone.com" },
+            { "name": "TD USA", "url": "https://www.td.com" }
           ]
         },
         {
           "name": "CAD Banks",
           "items": [
-            { "name": "RBC", "url": "https://www.rbcroyalbank.com" },
-            { "name": "TD Canada", "url": "https://www.td.com/ca/en/personal-banking" },
+            { "name": "TD CAD", "url": "https://www.td.com/ca" },
             { "name": "CIBC", "url": "https://www.cibc.com" }
           ]
         }
       ]
     },
-
     {
-      "name": "Shopping",
+      "name": "Airlines",
       "items": [
         {
-          "name": "US Shopping",
+          "name": "US Airlines",
           "items": [
-            { "name": "Amazon US", "url": "https://www.amazon.com" },
-            { "name": "Walmart US", "url": "https://www.walmart.com" }
+            { "name": "United", "url": "https://www.united.com" },
+            { "name": "American Airlines", "url": "https://www.aa.com" }
           ]
         },
         {
-          "name": "CAD Shopping",
+          "name": "CAD Airlines",
           "items": [
-            { "name": "Amazon Canada", "url": "https://www.amazon.ca" },
-            { "name": "Walmart Canada", "url": "https://www.walmart.ca" }
+            { "name": "Air Canada", "url": "https://www.aircanada.com" },
+            { "name": "Aeroplan", "url": "https://www.aeroplan.com" }
+          ]
+        },
+        {
+          "name": "Israel Airlines",
+          "items": [
+            { "name": "El Al", "url": "https://www.elal.com" },
+            { "name": "Air Haifa", "url": "https://www.airhaifa.com" },
+            { "name": "Arkia Airlines", "url": "https://www.arkia.com" }
           ]
         }
       ]
     },
-
-    {
-      "name": "Airlines",
-      "items": [
-        { "name": "Air Canada", "url": "https://www.aircanada.com" },
-        { "name": "Aeroplan", "url": "https://www.aeroplan.com" },
-        { "name": "United", "url": "https://www.united.com" },
-        { "name": "EL AL", "url": "https://www.elal.com/en/passengers/login" }
-      ]
-    },
-
     {
       "name": "Cellular",
       "items": [
@@ -62,6 +57,7 @@
           "name": "US Cellular",
           "items": [
             { "name": "Verizon", "url": "https://www.verizon.com" },
+            { "name": "AT&T", "url": "https://www.att.com" },
             { "name": "T-Mobile", "url": "https://www.t-mobile.com" },
             { "name": "US Mobile", "url": "https://www.usmobile.com" }
           ]
@@ -76,16 +72,14 @@
         {
           "name": "Israel Cellular",
           "items": [
-            { "name": "Triple Tel", "url": "https://www.tripletel.com/login" },
+            { "name": "Triple Tel", "url": "https://tripletel.com/login" },
             { "name": "Hot Mobile", "url": "https://www.hotmobile.co.il" }
           ]
         }
       ]
     },
-
     {
       "name": "Jewish Entertainment",
-      "icon": "🇮🇱",
       "items": [
         { "name": "Yiddish24", "url": "https://yiddish24.com" },
         { "name": "Zing", "url": "https://zingmusic.app/" }
