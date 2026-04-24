@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "categories": [
     {
       "name": "Banks",
@@ -17,7 +17,7 @@
         {
           "name": "CAD Banks",
           "items": [
-            { "name": "TD CAD", "url": "https://www.td.com/ca" },
+            { "name": "TD CAD", "url": "https://authentication.td.com/uap-ui/?consumer=easyweb&locale=en_CA#/uap/login" },
             { "name": "CIBC", "url": "https://www.td.com/ca/en/personal-banking" }
           ]
         }
