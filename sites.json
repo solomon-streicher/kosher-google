@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "categories": [
     {
       "name": "Banks",
@@ -18,7 +18,7 @@
           "name": "CAD Banks",
           "items": [
             { "name": "TD CAD", "url": "https://www.td.com/ca" },
-            { "name": "CIBC", "url": "https://www.cibc.com" }
+            { "name": "CIBC", "url": "https://www.td.com/ca/en/personal-banking" }
           ]
         }
       ]
